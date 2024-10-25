@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "أحمد محمد",
+    "email": "ahmed.mohamed@company.com",
+    "password": "P@ssw0rd1",
+    "role": "مدير تنفيذي",
+    "managerId": null
+  },
+  {
+    "id": 2,
+    "name": "فاطمة علي",
+    "email": "fatima.ali@company.com",
+    "password": "P@ssw0rd2",
+    "role": "مدير الموارد البشرية",
+    "managerId": 1
+  },
+  {
+    "id": 3,
+    "name": "محمود عبد الرحمن",
+    "email": "mahmoud.abdulrahman@company.com",
+    "password": "P@ssw0rd3",
+    "role": "مدير المبيعات",
+    "managerId": 1
+  },
+  {
+    "id": 4,
+    "name": "نور حسن",
+    "email": "nour.hassan@company.com",
+    "password": "P@ssw0rd4",
+    "role": "مدير التسويق",
+    "managerId": 1
+  },
+  {
+    "id": 5,
+    "name": "عمر خالد",
+    "email": "omar.khaled@company.com",
+    "password": "P@ssw0rd5",
+    "role": "مدير تكنولوجيا المعلومات",
+    "managerId": 1
+  },
+  {
+    "id": 6,
+    "name": "ليلى أحمد",
+    "email": "laila.ahmed@company.com",
+    "password": "P@ssw0rd6",
+    "role": "مدير المالية",
+    "managerId": 1
+  },
+  {
+    "id": 7,
+    "name": "كريم سعيد",
+    "email": "kareem.saeed@company.com",
+    "password": "P@ssw0rd7",
+    "role": "مطور برمجيات",
+    "managerId": 5
+  },
+  {
+    "id": 8,
+    "name": "رنا محمود",
+    "email": "rana.mahmoud@company.com",
+    "password": "P@ssw0rd8",
+    "role": "مصمم جرافيك",
+    "managerId": 4
+  },
+  {
+    "id": 9,
+    "name": "طارق حسين",
+    "email": "tarek.hussein@company.com",
+    "password": "P@ssw0rd9",
+    "role": "محلل بيانات",
+    "managerId": 5
+  },
+  {
+    "id": 10,
+    "name": "سارة عادل",
+    "email": "sara.adel@company.com",
+    "password": "P@ssw0rd10",
+    "role": "مندوب مبيعات",
+    "managerId": 3
+  },
+  {
+    "id": 11,
+    "name": "يوسف إبراهيم",
+    "email": "yousef.ibrahim@company.com",
+    "password": "P@ssw0rd11",
+    "role": "محاسب",
+    "managerId": 6
+  },
+  {
+    "id": 12,
+    "name": "منى كمال",
+    "email": "mona.kamal@company.com",
+    "password": "P@ssw0rd12",
+    "role": "مسؤول الموارد البشرية",
+    "managerId": 2
+  },
+  {
+    "id": 13,
+    "name": "هاني فؤاد",
+    "email": "hany.fouad@company.com",
+    "password": "P@ssw0rd13",
+    "role": "مهندس شبكات",
+    "managerId": 5
+  },
+  {
+    "id": 14,
+    "name": "رانيا محسن",
+    "email": "rania.mohsen@company.com",
+    "password": "P@ssw0rd14",
+    "role": "مدير مشروع",
+    "managerId": 3
+  },
+  {
+    "id": 15,
+    "name": "باسم نبيل",
+    "email": "bassem.nabil@company.com",
+    "password": "P@ssw0rd15",
+    "role": "مطور تطبيقات الموبايل",
+    "managerId": 5
+  },
+  {
+    "id": 16,
+    "name": "دينا فتحي",
+    "email": "dina.fathy@company.com",
+    "password": "P@ssw0rd16",
+    "role": "مسؤول العلاقات العامة",
+    "managerId": 4
+  },
+  {
+    "id": 17,
+    "name": "أيمن صلاح",
+    "email": "ayman.salah@company.com",
+    "password": "P@ssw0rd17",
+    "role": "مدير المشتريات",
+    "managerId": 1
+  },
+  {
+    "id": 18,
+    "name": "نادية سمير",
+    "email": "nadia.samir@company.com",
+    "password": "P@ssw0rd18",
+    "role": "مدير الجودة",
+    "managerId": 1
+  },
+  {
+    "id": 19,
+    "name": "وليد عبد العزيز",
+    "email": "waleed.abdelaziz@company.com",
+    "password": "P@ssw0rd19",
+    "role": "مدير قواعد بيانات",
+    "managerId": 5
+  },
+  {
+    "id": 20,
+    "name": "سمر رمزي",
+    "email": "samar.ramzy@company.com",
+    "password": "P@ssw0rd20",
+    "role": "مطور واجهة أمامية",
+    "managerId": 5
+  }
+]
